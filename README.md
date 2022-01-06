@@ -9,7 +9,8 @@ Contains:
 - Dither Effects
 - Animatable Palette Texture
 
-# Setup the Unity Project Template
+## Setup the Unity Project Template
+
 Locate the folder of the Unity Editor version.
 
     some\directory\version\Editor
@@ -20,7 +21,7 @@ Inside locate the ProjectTemplates follder.
 
 and copy the **com.unity.template.pixelart-0.0.1.tgz** to that location.
 
-# Add the Package to an Existing Project
+## Add the Package to an Existing Project
 
 Select add repository from url and paste the following link:
 
