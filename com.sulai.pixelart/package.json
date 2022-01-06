@@ -1,0 +1,8 @@
+{
+    "name": "com.sulai.pixelart",
+    "version": "0.0.1",
+    "description": "Tools for pixelart in Unity",
+    "displayName": "PixelArt",
+    "unity": "2021.2",
+    "author": {"name": "sulai","email": "sulai@gmx.at"}
+}

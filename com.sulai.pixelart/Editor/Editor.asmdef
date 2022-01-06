@@ -1,0 +1,19 @@
+{
+    "name": "Editor",
+    "references": [
+        "GUID:135a235bbe38ba14ab9478ecd2d279d6",
+        "GUID:5b1439485f6ba3e4088e2ed3fddd26ba",
+        "GUID:b459f9524696be24bbeb30497d9906d4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Emgu.CV.World.Netstandard.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
